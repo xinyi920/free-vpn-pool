@@ -31,6 +31,10 @@ trojan://177501cc-f0c2-3cc3-b9a7-8c1e8e27655f@pp1.zhengzhongfeizhu.xyz:34004?sni
 trojan://eb2f8154-ff58-3b99-b393-28c8eecdbe64@pp1.zhengzhongfeizhu.xyz:32002?sni=ip3884414509.mobgslb.tbcache.com#%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 trojan://eb2f8154-ff58-3b99-b393-28c8eecdbe64@pp1.zhengzhongfeizhu.xyz:32003#%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
 trojan://7688df6f-bf65-3368-b55e-d78efea6a582@pp1.zhengzhongfeizhu.xyz:32001#%E4%B8%AD%E5%9B%BD%E9%A6%99%E6%B8%AF
+trojan://d724ac69-6c87-4b5b-b7a2-2de255ad99ad@zfhk.v206-2.top:443?allowInsecure=1&peer=zfhk.v206-2.top&sni=zfhk.v206-2.top#v2-%E9%A6%99%E6%B8%AF-1
+trojan://d724ac69-6c87-4b5b-b7a2-2de255ad99ad@2ad55ff9.pro.cn-hk2.rvh2.raincs.cn:14011?allowInsecure=1&peer=2ad55ff9.pro.cn-hk2.rvh2.raincs.cn&sni=2ad55ff9.pro.cn-hk2.rvh2.raincs.cn#BGP_%E9%A6%99%E6%B8%AF
+trojan://d724ac69-6c87-4b5b-b7a2-2de255ad99ad@totyun.v206-p.top:443?allowInsecure=1&peer=totyun.v206-p.top&sni=totyun.v206-p.top#v2-%E9%A6%99%E6%B8%AF-
+trojan://d724ac69-6c87-4b5b-b7a2-2de255ad99ad@2ad55ff9.pro.cn-hk2.rvh2.raincs.cn:14011?allowInsecure=1&peer=2ad55ff9.pro.cn-hk2.rvh2.raincs.cn&sni=2ad55ff9.pro.cn-hk2.rvh2.raincs.cn#BGP-%E9%A6%99%E6%B8%AF
 
 # 韩国高速节点
 vmess://eyJhZGQiOiIxNTIuNjcuMjIxLjIyOCIsInYiOjIsInBzIjoi6Z+p5Zu9IiwicG9ydCI6IjU4NzQyIiwiaWQiOiIwZDMxYjM4NS1jNDc4LTQ1NmItZjY2NS1mMWQ2MmE5MWU1NGMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiJZb3VUdWJlLWF3ZWlrZWppIiwidGxzIjoiIiwicGF0aCI6Ii8ifQ==
