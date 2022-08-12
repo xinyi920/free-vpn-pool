@@ -1,50 +1,6 @@
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_1","server":"meeku3zi.nodeinfo.icu","port":3209,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_2","server":"peev0eey.nodeinfo.icu","port":6101,"protocol":"auth_aes128_md5","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_3","server":"ib7uge9u.nodeinfo.icu","port":6304,"protocol":"auth_aes128_md5","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_4","server":"quaex7oo.nodeinfo.icu","port":7005,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_5","server":"phoo6aem.nodeinfo.icu","port":1002,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"plain","password":"di15PV","obfs-param":"Vm1wR2IyUXlTbkpPVlZwT1UwZDRWRll3Wkc5VlJsWnlXa2R3YkZKc1NsaFdWM1IzWVRGWmVGSnFXbGhoTVVwUVZrWmtTMWRHVm5GVGJVWlRUVzVPTkZkWGNFdFNNREV6","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_6","server":"gee3ahy3.nodeinfo.icu","port":1128,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_7","server":"aic5ucu1.nodeinfo.icu","port":6021,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"Vm1wR2IyUXlTbkpPVlZwT1UwZDRWRll3Wkc5VlJsWnlXa2R3YkZKc1NsaFdWM1IzWVRGWmVGSnFXbGhoTVVwUVZrWmtTMWRHVm5GVGJVWlRUVzVPTkZkWGNFdFNNREV6","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_8","server":"ohm9aizu.nodeinfo.icu","port":1122,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"plain","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_9","server":"vureuva3.nodeinfo.icu","port":7004,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_10","server":"yoo5hoog.nodeinfo.icu","port":1123,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"Vm0xd1IySXlVWGxUYmtwUFZsWndUMVV3WkRSV1JsbDNXa2M1VmxKc1dubFhhMlIzWWtaS2MxTnNhRmRXTTFJeldWUkdXbVZHU25GWGJHaG9UVlZ3VVZacldtdFRNV1JIVm01R1ZHSlZXbFJVVnpWUFRrWmtXR05GZEZOTlJFVjY=","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_11","server":"aic5ucu1.nodeinfo.icu","port":6021,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"Vm1wR2IyUXlTbkpPVlZwT1UwZDRWRll3Wkc5VlJsWnlXa2R3YkZKc1NsaFdWM1IzWVRGWmVGSnFXbGhoTVVwUVZrWmtTMWRHVm5GVGJVWlRUVzVPTkZkWGNFdFNNREV6","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_12","server":"inu8azei.nodeinfo.icu","port":6017,"protocol":"auth_aes128_md5","cipher":"rc4-md5","obfs":"plain","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_13","server":"ota2wier.nodeinfo.icu","port":7001,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_14","server":"queigh5h.nodeinfo.icu","port":6004,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"Vm0xd1IySXlVWGxUYmtwUFZsWndUMVV3WkRSV1JsbDNXa2M1VmxKc1dubFhhMlIzWWtaS2MxTnNhRmRXTTFJeldWUkdXbVZHU25GWGJHaG9UVlZ3VVZacldtdFRNV1JIVm01R1ZHSlZXbFJVVnpWUFRrWmtXR05GZEZOTlJFVjY=","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_15","server":"quohvop8.nodeinfo.icu","port":6016,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_16","server":"phahx7xo.nodeinfo.icu","port":3726,"protocol":"auth_aes128_md5","cipher":"aes-256-cfb","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"Vm1wR2IyUXlTbkpPVlZwT1UwZDRWRll3Wkc5VlJsWnlXa2R3YkZKc1NsaFdWM1IzWVRGWmVGSnFXbGhoTVVwUVZrWmtTMWRHVm5GVGJVWlRUVzVPTkZkWGNFdFNNREV6","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_17","server":"aquoh8xi.nodeinfo.icu","port":6022,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_18","server":"eevahb9v.nodeinfo.icu","port":6009,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VjFod2JrNUZNSGxTV0doUFVrZGplRlJXVWtwa1YxRjZXa1JPVFdKWFVqSmFSMnN4WWpKR013","protocol-param":"148512:cxPij2"}
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_19","server":"aemoo9wi.nodeinfo.icu","port":7008,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"
-  - {"type":"ssr","name":"🇨🇳_YouTube：全网最强白嫖_20","server":"phu8iej2.nodeinfo.icu","port":6015,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"tls1.2_ticket_auth","password":"di15PV","obfs-param":"VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw","protocol-param":"148512:cxPij2"}
-  {
-  "created" : 1660309369.8612499,
-  "weight" : 1660309366,
-  "alterId" : "",
-  "title" : "🇨🇳_YouTube：全网最强白嫖_3",
-  "host" : "ib7uge9u.nodeinfo.icu",
-  "file" : "",
-  "filter" : "",
-  "downmbps" : "",
-  "alpn" : "",
-  "uuid" : "89dad18d-497d-3562-28af-28c47e80f7d7",
-  "method" : "aes-256-cfb",
-  "flag" : "CN",
-  "obfs" : "tls1.2_ticket_auth",
-  "chain" : "",
-  "updated" : 1660309369.830977,
-  "type" : "ShadowsocksR",
-  "cert" : "",
-  "plugin" : "",
-  "user" : "",
-  "upmbps" : "",
-  "protoParam" : "148512:cxPij2",
-  "port" : 6304,
-  "proto" : "auth_aes128_md5",
-  "peer" : "",
-  "password" : "di15PV",
-  "data" : "local:\/\/9fdd32bf2d6a9a946f280658d4768d79",
-  "ping" : 332,
-  "obfsParam" : "VmpGb2QySnJOVVpOU0d4VFYwZG9VRlZyWkdwbFJsSlhWV3R3YTFZeFJqWlhhMUpQVkZkS1dGVnFTbUZTTW5ONFdXcEtSMDEzUFQw"
-}
+ssr://aWI3dWdlOXUubm9kZWluZm8uaWN1OjYzMDQ6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpaR2t4TlZCVy8/cmVtYXJrcz1TbEE9JnByb3RvcGFyYW09TVRRNE5URXlPbU40VUdscU1nJm9iZnNwYXJhbT1WbTF3UjJJeVVYbFRia3BQVmxad1QxVXdaRFJXUmxsM1drYzVWbEpzV25sWGEyUjNZa1pLYzFOc2FGZFdNMUl6V1ZSR1dtVkdTbkZYYkdob1RWVndVVlpyV210VE1XUkhWbTVHVkdKVldsUlVWelZQVGtaa1dHTkZkRk5OUkVWNlZVWlJkdw==
+ssr://bWVla3Uzemkubm9kZWluZm8uaWN1OjMyMDk6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVUwYz0mcHJvdG9wYXJhbT1NVFE0TlRFeU9tTjRVR2xxTWcmb2Jmc3BhcmFtPVZtcEdiMlF5U25KT1ZWcE9VMGQ0VkZZd1pHOVZSbFp5V2tkd2JGSnNTbGhXVjNSM1lURlplRkpxV2xoaE1VcFFWa1prUzFkR1ZuRlRiVVpUVFc1T05GZFhjRXRTTURFeg== 
+ssr://cGVldjBlZXkubm9kZWluZm8uaWN1OjYxMDE6YXV0aF9hZXMxMjhfbWQ1OmFlcy0yNTYtY2ZiOnRsczEuMl90aWNrZXRfYXV0aDpaR2t4TlZCVy8/cmVtYXJrcz1TMUk9JnByb3RvcGFyYW09TVRRNE5URXlPbU40VUdscU1nJm9iZnNwYXJhbT1WbXBHYjJReVNuSk9WVnBPVTBkNFZGWXdaRzlWUmxaeVdrZHdiRkpzU2xoV1YzUjNZVEZaZUZKcVdsaGhNVXBRVmtaa1MxZEdWbkZUYlVaVFRXNU9ORmRYY0V0U01ERXo=
+ssr://ZWV2YWhiOXYubm9kZWluZm8uaWN1OjYwMDk6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVNFcyZwcm90b3BhcmFtPU1UUTROVEV5T21ONFVHbHFNZyZvYmZzcGFyYW09Vm1wR2IyUXlTbkpPVlZwT1UwZDRWRll3Wkc5VlJsWnlXa2R3YkZKc1NsaFdWM1IzWVRGWmVGSnFXbGhoTVVwUVZrWmtTMWRHVm5GVGJVWlRUVzVPTkZkWGNFdFNNREV6
+ssr://YWVtb285d2kubm9kZWluZm8uaWN1OjcwMDg6YXV0aF9hZXMxMjhfbWQ1OmNoYWNoYTIwLWlldGY6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVNFcz0mcHJvdG9wYXJhbT1NVFE0TlRFeU9tTjRVR2xxTWcmb2Jmc3BhcmFtPVZtMXdSMkl5VVhsVGJrcFBWbFp3VDFVd1pEUldSbGwzV2tjNVZsSnNXbmxYYTJSM1lrWktjMU5zYUZkV00xSXpXVlJHV21WR1NuRlhiR2hvVFZWd1VWWnJXbXRUTVdSSFZtNUdWR0pWV2xSVVZ6VlBUa1prV0dORmRGTk5SRVY2VlVaUmR3
+ssr://cXVhZXg3b28ubm9kZWluZm8uaWN1OjcwMDU6YXV0aF9hZXMxMjhfbWQ1OnJjNC1tZDU6dGxzMS4yX3RpY2tldF9hdXRoOlpHa3hOVkJXLz9yZW1hcmtzPVNFcz0mcHJvdG9wYXJhbT1NVFE0TlRFeU9tTjRVR2xxTWcmb2Jmc3BhcmFtPVZtMXdSMkl5VVhsVGJrcFBWbFp3VDFVd1pEUldSbGwzV2tjNVZsSnNXbmxYYTJSM1lrWktjMU5zYUZkV00xSXpXVlJHV21WR1NuRlhiR2hvVFZWd1VWWnJXbXRUTVdSSFZtNUdWR0pWV2xSVVZ6VlBUa1prV0dORmRGTk5SRVY2VlVaUmR3
